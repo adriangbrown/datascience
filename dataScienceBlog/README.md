@@ -16,11 +16,10 @@ Goal is to gain insights about these short term rental listings as content for a
 
 ## Files
 seattle_airbnb.ipynb - Jupyter notebook that imports the data and produces visualizations
-calendar.csv - Airbnb publicly available calendar file
-listings.csv - Airbnb publicly available listings file
-reviews.csv - Airbnb publicly available reviews file
 
-Analysis results
+## Analysis results
 -Essentials (wireless internet, heat, etc) are important but ensure your home has popular amenities.
 -Get bookings and ratings to prove to potential guests that your home is in demand.
 -Consider hosting larger groups.
+
+## Blog link:  https://medium.com/@adrian.g.brown/is-my-home-attractive-to-airbnb-guests-cab93045ddba
