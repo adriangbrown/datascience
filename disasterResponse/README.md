@@ -2,6 +2,10 @@
 
 ## Project Summary:  Application takes in message data sets related to disaster response and attempts to categorize the type of message for faster delegation and dispatching by the appropriate teams.  Output is a web app.
 
+## Analysis:  Data ingested into this app allow the user to take a message and route to the appropriate team based on the terms used in message.
+
+## Conclusion:  By transforming the message categories into binary format and stripping down the un-needed elements, we are able to get fairly strong precision and recall percentages in each category making this app useful for dispatching support during a disaster.
+
 ## File Descriptions
 1. process_data.py:  ingests csv data, processes, and saves to sql database
 2. train_classifier.py:  extracts data and predicts what category the message should belong to
