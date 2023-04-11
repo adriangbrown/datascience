@@ -3,8 +3,8 @@
 ## Project Summary:  Application takes in message data sets related to disaster response and attempts to categorize the type of message for faster delegation and dispatching by the appropriate teams.  Output is a web app.
 
 ## File Descriptions
---process_data.py:  ingests csv data, processes, and saves to sql database
---train_classifier.py:  extracts data and predicts what category the message should belong to
+1. process_data.py:  ingests csv data, processes, and saves to sql database
+2. train_classifier.py:  extracts data and predicts what category the message should belong to
 
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
