@@ -7,21 +7,15 @@ Adrian Brown
 
 ### Project Overview
 Use event tracking data, specifically around product viewed to recommend products to other users based on similarity.
-In this section, look to provide a high-level overview of the project in layman’s terms. Questions to ask yourself when writing this section:
-- _Has an overview of the project been provided, such as the problem domain, project origin, and related datasets or input data?_
-- _Has enough background information been given so that an uninformed reader would understand the problem domain and following problem statement?_
 
 ### Problem Statement
-In this section, you will want to clearly define the problem that you are trying to solve, including the strategy (outline of tasks) you will use to achieve the desired solution. You should also thoroughly discuss what the intended solution will be for this problem. Questions to ask yourself when writing this section:
-- _Is the problem statement clearly defined? Will the reader understand what you are expecting to solve?_
-- _Have you thoroughly discussed how you will attempt to solve the problem?_
-- _Is an anticipated solution clearly defined? Will the reader understand what results you are looking for?_
+We would like to recommend relevant products to users of our website.  If we look at similar users we can get a sense of what they purchase
+and from there be able to surface relevant products to users who have not viewed these products.  This should improve the user experience
+on the site by allowing the user to save time to see things they will be most interested in.
 
 ### Metrics
-In this section, you will need to clearly define the metrics or calculations you will use to measure performance of a model or result in your project. These calculations and metrics should be justified based on the characteristics of the problem and problem domain. Questions to ask yourself when writing this section:
-- _Are the metrics you’ve chosen to measure the performance of your models clearly discussed and defined?_
-- _Have you provided reasonable justification for the metrics chosen based on the problem and solution?_
-
+Our success metrics will be view rate (product of impressions and views), add to cart rate (view to add to cart event) and purchase rate.
+We would like to see each of these metrics improve for those users provided recommendations versus those given a standard set of products to review.
 
 ## II. Analysis
 _(approx. 2-4 pages)_
