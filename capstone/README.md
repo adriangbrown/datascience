@@ -8,6 +8,7 @@ matplotlib - data exploration visualizations
 numpy - data wrangling and modelling
 seaborn - data exploration and visualizations
 collections - useful for Counter method
+sklearn - model accuracy metrics
 
 **Motivation**
 I am interested in extending my use of the recommender algorithms to a real world problem.  Specifically using the svd or FunkSVD algorithm
