@@ -15,9 +15,7 @@ I am interested in extending my use of the recommender algorithms to a real worl
 to recommend customers or users things that would be deemed valuable
 
 **Files with descriptions**
-production_recommendations.ipynb - python notebook with data exploration and modelling
+production_recommendations.ipynb - python notebook detailing the project along with data exploration and modelling and explantions
 event_data.csv - product event data
-capstone_report.md - blog post
 
-**Summary of resultsi**
 
