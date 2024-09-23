@@ -18,4 +18,4 @@ to recommend customers or users things that would be deemed valuable
 production_recommendations.ipynb - python notebook detailing the project along with data exploration and modelling and explantions
 event_data.csv - product event data
 
-
+**Blog Post - https://medium.com/@adrian.g.brown/providing-product-recommendations-with-svd-c2f32af4c2c0 **
