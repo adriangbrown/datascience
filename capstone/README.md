@@ -18,4 +18,9 @@ to recommend customers or users things that would be deemed valuable
 production_recommendations.ipynb - python notebook detailing the project along with data exploration and modelling and explantions
 event_data.csv - product event data
 
+**Summary of the Results**
 **Blog Post - https://medium.com/@adrian.g.brown/providing-product-recommendations-with-svd-c2f32af4c2c0 **
+
+**Acknowledgements**
+Data Source Link:  https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop
+Data Source Credit:  Michael Kechinov
